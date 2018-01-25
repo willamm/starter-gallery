@@ -4,6 +4,15 @@ Team membership:  AB (Captain) & Will Murphy (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 1.1.0*
+
+Release Date: Jan 25, 2017
+
+## Updated components
+
+-   Refactoring
+    -   Removed code duplication (Benny Wang)
+
 ## *Version 1.0.0*
 
 Release Date: Jan 25, 2017
