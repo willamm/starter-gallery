@@ -1,8 +1,22 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  AB (Captain) & Will Murphy (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
+## *Version 1.0.0*
+
+Release Date: Jan 25, 2017
+
+## New components
+
+-   controllers
+
+    -   about (Will Murphy)
+
+    -   gallery (Will Murphy)
+
+    -   welcome (Will Murphy)
 
 ## *Version x.x*
 
