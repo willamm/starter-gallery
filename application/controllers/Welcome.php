@@ -22,7 +22,8 @@ class Welcome extends Application
 		// Get the newest images from the model
 		$pix = $this->images->newest();
 
-		foreach ($pix as $picture) {
+		foreach ($pix as $picture) 
+		{
 			$cells[] = $this->parser->parse('_cell', (array) $picture, true);
 		}
 
