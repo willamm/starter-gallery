@@ -5,11 +5,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Gallery extends Application
 {
 
+	/**
+	 * Index page for this controller.
+	 */
 	public function index()
 	{
-		// $this->load->view('Gallery');
-		// $this->data['pagebody'] = 'Gallery';
-		// $this->render();
 		$pix = $this->images->all();
 
 		foreach ($pix as $picture) {
